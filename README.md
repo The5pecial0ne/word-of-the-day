@@ -4,8 +4,7 @@ A tiny tool that shows you one Finnish word, and what it means, every time
 you open your MacBook. Same word all day, a new one tomorrow. It picks the
 most common words first and restocks itself from the web when it runs low.
 
-I built it because I wanted Finnish vocabulary to find me, instead of having
-to remember to open an app.
+I built it because I wanted to work on my Finnish vocabulary. Can be custom-made for any language you wish with a few simple changes.
 
 ![The word-of-the-day popup](screenshot.png)
 
