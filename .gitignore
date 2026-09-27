@@ -1,0 +1,12 @@
+# Personal data the tool creates. These stay on your Mac, never on GitHub.
+words.db
+fi_50k.txt
+wotd.log
+
+# The compiled listener. Everyone builds their own with install.sh.
+wotd-listener
+
+# Clutter from Python and macOS
+__pycache__/
+*.pyc
+.DS_Store
