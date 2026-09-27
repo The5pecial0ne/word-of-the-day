@@ -103,9 +103,8 @@ rm -rf ~/wotd                 # removes everything, words included
 
 ## Ideas for later
 
-- Spaced repetition, so words you struggled with come back sooner
 - Pronunciation, using macOS's built-in Finnish voice (`say -v Satu`)
-- Support for other languages. Swedish would need only a different word list.
+- Support for other languages.
 
 ## Credits
 
