@@ -34,7 +34,7 @@ to remember to open an app.
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/wotd.git
+git clone https://github.com/the5pecial0ne/wotd.git
 cd wotd
 ./install.sh
 ```
